@@ -1,0 +1,11 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.modes{
+	position:absolute;
+	color: orange;
+	top:10px;
+	right:20px;
+}
