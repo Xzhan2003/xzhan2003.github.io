@@ -1,49 +1,149 @@
-a {
-    color: #1a93cc;
-    text-decoration: none;
-    display: inline;
-    text-decoration: none;
-    margin-bottom: 15px;
-}
-
-.modes{
-	position:absolute;
-	color: #dd3403;
-	top:10px;
-	right:20px;
-}
-
-h1{
-    font-size: 3em;
-    margin-top: 18px;
-    margin-bottom: 18px;
-}
-
-p{
-    font-size: 1.5em;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: white;
-    
-  }
-  
-li {
-    float: left;   
-}
-
-li p {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 5px;
-    margin: 1px;
-    margin-right: 150px;
-    text-decoration: none;
-  }
-
-  
+        body {
+            font-family: 'Helvetica', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-gap: 20px;
+            padding: 20px;
+            width: 80%;
+            max-width: 1200px;
+        }
+        .header {
+            background: linear-gradient(135deg, #5f2c82 0%,#49a09d 100%);
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            grid-column: span 2;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 28px;
+            letter-spacing: 2px;
+        }
+        .person-details {
+            padding: 20px;
+            text-align: center;
+            color: #444;
+            grid-column: span 2;
+        }
+        .person-details p {
+            margin: 5px 0;
+        }
+        .info-card {
+            display: flex;
+            align-items: center;
+            padding: 20px;
+            border-top: 1px solid #e0e0e0;
+            grid-column: span 2;
+        }
+        .info-icon {
+            font-size: 24px;
+            color: #5f2c82;
+            margin-right: 10px;
+        }
+        .info-text {
+            color: #666;
+        }
+        .description {
+            padding: 20px;
+            color: #444;
+            text-align: justify;
+            grid-column: span 2;
+        }
+        .skills {
+            background: #f9f9f9;
+            grid-column: 1;
+            padding: 20px;
+        }
+        .skills h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .skill-item {
+            display: inline-block;
+            background: #5f2c82;
+            color: #fff;
+            padding: 8px 16px;
+            margin: 5px;
+            border-radius: 5px;
+            font-size: 14px;
+            letter-spacing: 1px;
+        }
+        .experience {
+            padding: 20px;
+            border-top: 1px solid #e0e0e0;
+            color: #444;
+            grid-column: 2;
+        }
+        .experience h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .experience-item {
+            margin-bottom: 15px;
+            padding-left: 20px;
+            position: relative;
+        }
+        .experience-item:before {
+            content: '\2022';
+            position: absolute;
+            left: 0;
+            color: #5f2c82;
+            font-size: 14px;
+        }
+        .education {
+            padding: 20px;
+            color: #444;
+            grid-column: span 2;
+        }
+        .education h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .education-item {
+            margin-bottom: 15px;
+            padding-left: 20px;
+            position: relative;
+        }
+        .education-item:before {
+            content: '\2022';
+            position: absolute;
+            left: 0;
+            color: #5f2c82;
+            font-size: 14px;
+        }
+        .news {
+            grid-column: span 2;
+            padding: 20px;
+            background: #f0f0f0;
+        }
+        .news h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #444;
+        }
+        .news-item {
+            margin-bottom: 15px;
+            padding-left: 20px;
+            position: relative;
+            border-left: 3px solid #5f2c82;
+            padding: 10px 0 10px 20px;
+        }
+        a {
+            color: #1a93cc;
+            text-decoration: none;
+            display: inline;
+            text-decoration: none;
+            margin-bottom: 15px;
+        }
