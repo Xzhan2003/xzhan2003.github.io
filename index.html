@@ -61,7 +61,7 @@
         <div class="education">
             <h2>Education</h2>
             <div class="education-item">
-                <p><strong>University of Illinois Urbana-Champaign</strong></p>
+                <p onclick="openPopup()" style="color: #ff4113"><strong>University of Illinois Urbana-Champaign</strong></p>
                 <p>Bachelor of Science in Computer Science and Masters in Computer Science</p>
                 <p>GPA:4.0/4.0</p>
                 <p>2023 Aug - 2026 May</p>
@@ -72,6 +72,31 @@
                 <p>2025 Aug - 2026 May</p>
             </div> -->
         </div>
+
+        <!--  -->
+        <!-- The pop-up overlay and box -->
+        <div id="popupOverlay" class="overlay">
+            <div class="popup-box">
+                <p><strong>OKay, you clicked my University's name, which indicate that you might not familiar about my school, Check this out:</strong></p>
+                <p>The UIUC CS undergraduate program is ranked <strong>2nd</strong> <a href="https://csrankings.org/#/index?all&us" target="_blank">by CS Ranking.</a></p>
+                <p>The UIUC CS undergraduate program is ranked <strong>5th</strong> by U.S. News & World Report, <a href="https://www.usnews.com/best-colleges/rankings/computer-science-overall" target="_blank">last ranked in 2024.</a></p>
+                <p>The UIUC CS graduate  program is ranked <strong>5th</strong> by U.S. News & World Report, <a href="https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings" target="_blank">last ranked in 2023.</a></p>
+                    <button class="exit-btn" onclick="closePopup()">Got it!</button>
+            </div>
+        </div>
+        
+        <script>
+            // Function to open the pop-up
+            function openPopup() {
+                document.getElementById('popupOverlay').style.display = 'flex';
+            }
+        
+            // Function to close the pop-up
+            function closePopup() {
+                document.getElementById('popupOverlay').style.display = 'none';
+            }
+        </script>
+        <!--  -->
     </div>
 </body>
 </html>
