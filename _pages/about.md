@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://siebelschool.illinois.edu/'>University of Illinios Urbana-Champaign, Siebel School of Computing and Data Science</a>.<a href='https://siebelschool.illinois.edu/'>National Center for Supercomputing Applications </a>.
+subtitle: <a href='https://siebelschool.illinois.edu/'>University of Illinios Urbana-Champaign, Siebel School of Computing and Data Science</a><br>
+<a href='https://siebelschool.illinois.edu/'>National Center for Supercomputing Applications </a>
 
 profile:
   align: right
@@ -12,7 +13,7 @@ profile:
     <p><a href='https://outlook.office.com/mail/'>Email: zhan39@illinois.edu</a></p>
  
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
