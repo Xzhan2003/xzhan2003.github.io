@@ -2,9 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle1: Undergraduate student at <a href='https://https://illinois.edu/'>University of Illinios Urbana-Champaign</a>.
-subtitle2: Computer Science student at <a href='https://siebelschool.illinois.edu/'>Siebel School of Computing and Data Science</a>.
-subtitle3: Intern at <a href='https://www.ncsa.illinois.edu/'>National Center for Supercomputing Applications </a>.
+subtitle1: Undergraduate student at <a href='https://https://illinois.edu/'>University of Illinios Urbana-Champaign</a>
+subtitle2: Computer Science student at <a href='https://siebelschool.illinois.edu/'>Siebel School of Computing and Data Science</a>
+subtitle3: Intern at <a href='https://www.ncsa.illinois.edu/'>National Center for Supercomputing Applications </a>
 
 profile:
   align: right
