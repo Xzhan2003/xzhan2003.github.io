@@ -1,8 +1,8 @@
 ---
 layout: post
-title: NCSA Internship for Academic Year 2024 - 2025
+title: NCSA Internship for Academic Year 2024 - 2025aaaaa
 date: 2024-08-22
-inline: false
+inline: true
 related_posts: false
 ---
 
