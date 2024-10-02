@@ -14,12 +14,12 @@ profile:
     <p><a href='https://outlook.office.com/mail/'>Email: zhan39@illinois.edu</a></p>
  
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
 
-My name is Xianyang (Sam) Zhan. I am currently a senior pursuing a B.S. in Computer Science at the University of Illinois Urbana-Champaign. I work with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC and I am having my research internship with [Professor Haohan Wang](https://haohanwang.github.io/index.html) at [NCSA](https://spin.ncsa.illinois.edu/23-24-academic-year-interns/).
+I am a Bachelor student in Computer Science at the University of Illinois Urbana-Champaign. I work with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC and I am having my research internship with [Professor Haohan Wang](https://haohanwang.github.io/index.html) at [NCSA](https://spin.ncsa.illinois.edu/23-24-academic-year-interns/).
 
 My research interests include Natrual Language Processing, Human AI Collaboration and Machine Learning. More specifically, I am currently focusing on the following areas: Large Language Models for {Code Generation, AI Agents, Content Moderation}. My email is zhan39@illinois.edu, Please feel free to contact me!
