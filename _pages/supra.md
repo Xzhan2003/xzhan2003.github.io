@@ -24,15 +24,15 @@ My brother has a CUTE dog named Supra, I spent a wonderful time with Supra from 
         }
 </style>
 <div class="photo-grid">
-    <img class="photo" src="assets/img/supra1.jpg">
-    <img class="photo" src="assets/img/supra2.jpg">
-    <img class="photo" src="assets/img/supra6.jpg">
-    <img class="photo" src="assets/img/supra3.jpg">
-    <img class="photo" src="assets/img/supra5.jpg">
-    <img class="photo" src="assets/img/supra4.jpg">
-    <img class="photo" src="assets/img/supra7.jpg">
-    <img class="photo" src="assets/img/supra8.jpg">
-    <img class="photo" src="assets/img/supra9.jpg">
+    <img class="photo" src="../assets/img/supra1.jpg">
+    <img class="photo" src="../assets/img/supra2.jpg">
+    <img class="photo" src="../assets/img/supra6.jpg">
+    <img class="photo" src="../assets/img/supra3.jpg">
+    <img class="photo" src="../assets/img/supra5.jpg">
+    <img class="photo" src="../assets/img/supra4.jpg">
+    <img class="photo" src="../assets/img/supra7.jpg">
+    <img class="photo" src="../assets/img/supra8.jpg">
+    <img class="photo" src="../assets/img/supra9.jpg">
 </div>
 
 <style>
