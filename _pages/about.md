@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://siebelschool.illinois.edu/'>University of Illinios Urbana-Champaign, Siebel School of Computing and Data Science</a><br>
-<a href='https://siebelschool.illinois.edu/'>National Center for Supercomputing Applications </a>
+subtitle: <a href='https://siebelschool.illinois.edu/'>University of Illinios Urbana-Champaign, Siebel School of Computing and Data Science</a>.<a href='https://siebelschool.illinois.edu/'>National Center for Supercomputing Applications </a>.
 
 profile:
   align: right
