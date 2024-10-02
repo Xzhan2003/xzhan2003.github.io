@@ -6,6 +6,6 @@ inline: true
 related_posts: false
 ---
 
-- **Serve as Annual NCSA Student Research Conference Organizing Committee** (Oct 2024)
+- **Serve as Annual NCSA Student Research Conference Organizing Committee**
 <br/>
 I have accepted the invitation to join on the 3rd Annual NCSA Student Research Conference organizing committee.
