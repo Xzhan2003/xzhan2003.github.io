@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Department of Computer Science is becoming the Siebel School of Computing and Data Science
-date: 2024-04
+date: 2024-04-15
 inline: true
 related_posts: false
 ---

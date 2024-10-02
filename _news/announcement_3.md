@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: Serve as Annual NCSA Student Research Conference Organizing Committee
+date: 2024-10-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+- **Serve as Annual NCSA Student Research Conference Organizing Committee** (Oct 2024)
+<br/>
+I have accepted the invitation to join on the 3rd Annual NCSA Student Research Conference organizing committee.
